@@ -7,7 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
+  groceries.values.flatten #call values on the groceries hash and flatten the resulting returned array
 
 end
